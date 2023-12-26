@@ -1,0 +1,6 @@
+# All secondary file
+Non main/
+venv/
+*.docx
+*.pptx
+*.txt
